@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Purpose
+
+This is a toy project to learn more about Progressive Web App.
+It is inspired from https://github.com/adrianhajdin/project_weather_pwa
+
+Thanks
 
 ## Available Scripts
 
