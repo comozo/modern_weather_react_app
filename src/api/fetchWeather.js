@@ -1,6 +1,4 @@
-import React from "react"
 import axios from "axios"
-import { queryAllByAltText } from "@testing-library/react"
 
 const URL = 'https://api.openweathermap.org/data/2.5/weather'
 const API_KEY = 'f33a484cf794d08d0148764789aaba32'
